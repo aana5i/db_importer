@@ -1,0 +1,2278 @@
+{
+  "tekikensa": {
+    "info": [
+      {
+        "resultName": "研究性優位型／社会研究系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt01.png",
+        "resultId": "01",
+        "analysisId": "ab",
+        "commentStudent": "行動するよりも考えるのが好きな、知的好奇心の旺盛なあなたは、抽象的な思考能力が高く、物事を分析することに向いています。特に、人間社会の出来事にも強い関心があり、対人関係にも優れた能力がありそうです。そんなあなたには、社会や心理を分析したり、予測する仕事が向いています。",
+        "commentGuardian": " 、行動するよりも考えるのが好きな傾向があり、知的好奇心が旺盛で、抽象的な思考能力も高く、物事を分析することに向いています。特に、人間社会の出来事にも強い関心があり、対人関係にも優れた能力がありそうです。そのようなお子様は、社会や心理を分析したり、予測する仕事に関心がありそうです。",
+        "job": [
+          {
+            "jobName": "アナリスト",
+            "jobDescription": "幅広いデータから株価の評価や予測を行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/060/index.html",
+            "jobCode": "060",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "医師",
+            "jobDescription": "病気の原因解明やその治療にあたる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/165/index.html",
+            "jobCode": "165",
+            "jobCmsCode": "15"
+          },
+          {
+            "jobName": "マーケティングリサーチャー",
+            "jobDescription": "消費者データを調査、集計、分析する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/098/index.html",
+            "jobCode": "098",
+            "jobCmsCode": "10"
+          },
+          {
+            "jobName": "ファイナンシャル・プランナー",
+            "jobDescription": "資産運用の相談に乗り、アドバイスする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/061/index.html",
+            "jobCode": "061",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "経営コンサルタント",
+            "jobDescription": "会社の経営状態を診断し業績アップにつなげる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/059/index.html",
+            "jobCode": "059",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "販売担当者",
+            "jobDescription": "接客で得た情報を分析し販売にいかす",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/062/index.html",
+            "jobCode": "062",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "機械系研究･技術者",
+            "jobDescription": "あらゆる機械製品の開発、設計、製造に関与",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/192/index.html",
+            "jobCode": "192",
+            "jobCmsCode": "17"
+          },
+          {
+            "jobName": "電子、電気系研究･技術者",
+            "jobDescription": "常により新しいものの開発に挑戦",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/193/index.html",
+            "jobCode": "193",
+            "jobCmsCode": "17"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "心理学",
+            "studyDescription": "心のメカニズムを科学する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/004/index.html",
+            "studyLargeCode": "01",
+            "studySmallCode": "004",
+            "studyCmsCode": "01"
+          },
+          {
+            "studyName": "経済学",
+            "studyDescription": "お金と人間、社会との関係の本質を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/014/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "014",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "マスコミ学",
+            "studyDescription": "多様化するマスコミとマスメディアを研究しそのあるべき姿を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/020/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "020",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "機械工学",
+            "studyDescription": "人間と地球に優しい機械を考える",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/051/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "051",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "電気・電子・通信工学",
+            "studyDescription": "エネルギーと情報伝達手段の電気に注目する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/052/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "052",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "医学",
+            "studyDescription": "“生命”を治療や予防の観点から追究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/041/index.html",
+            "studyLargeCode": "12",
+            "studySmallCode": "041",
+            "studyCmsCode": "12"
+          }
+        ]
+      },
+      {
+        "resultName": "研究性優位型/工学研究系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt02.png",
+        "resultId": "02",
+        "analysisId": "ac",
+        "commentStudent": "行動するよりも考えるのが好きな、知的好奇心旺盛なあなたは、抽象的な思考能力が高く、物事を分析することに向いています。特に、機械や道具に強く、現実を合理的にとらえることが得意なようです。そんなあなたには、自然や生物を研究したり、新しい技術を開発する仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、行動するよりも考えるのが好きな傾向があり、知的好奇心が旺盛で、抽象的な思考能力も高く、物事を分析することに向いています。特に、機械や道具に強く、現実を合理的にとらえることが得意な傾向があるようです。そのようなお子様には、自然や生物を研究したり、新しい技術を開発する仕事に関心がありそうです。",
+        "job": [
+          {
+            "jobName": "機械系研究･技術者",
+            "jobDescription": "あらゆる機械製品の開発、設計、製造に関与",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/192/index.html",
+            "jobCode": "192",
+            "jobCmsCode": "17"
+          },
+          {
+            "jobName": "電子、電気系研究･技術者",
+            "jobDescription": "常により新しいものの開発に挑戦",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/193/index.html",
+            "jobCode": "193",
+            "jobCmsCode": "17"
+          },
+          {
+            "jobName": "エネルギー系研究・技術者",
+            "jobDescription": "さまざまなエネルギーの研究・開発に携わる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/194/index.html",
+            "jobCode": "194",
+            "jobCmsCode": "17"
+          },
+          {
+            "jobName": "土木系研究･技術者",
+            "jobDescription": "土木工事にかかわる業務を分担して進める",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/208/index.html",
+            "jobCode": "208",
+            "jobCmsCode": "19"
+          },
+          {
+            "jobName": "システムエンジニア",
+            "jobDescription": "使い手のニーズに合ったソフトを開発する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/198/index.html",
+            "jobCode": "198",
+            "jobCmsCode": "18"
+          },
+          {
+            "jobName": "プログラマー",
+            "jobDescription": "コンピュータを動かすプログラムを作成する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/197/index.html",
+            "jobCode": "197",
+            "jobCmsCode": "18"
+          },
+          {
+            "jobName": "気象予報士",
+            "jobDescription": "観測データを分析し気象情報を人々に伝える",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/191/index.html",
+            "jobCode": "191",
+            "jobCmsCode": "16"
+          },
+          {
+            "jobName": "臨床検査技師",
+            "jobDescription": "患者の血液や細胞、器官を多角的に検査する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/171/index.html",
+            "jobCode": "171",
+            "jobCmsCode": "15"
+          },
+          {
+            "jobName": "医師",
+            "jobDescription": "病気の原因解明やその治療にあたる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/165/index.html",
+            "jobCode": "165",
+            "jobCmsCode": "15"
+          },
+          {
+            "jobName": "歯科医師",
+            "jobDescription": "歯を中心とした口腔全体の治療に携わる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/166/index.html",
+            "jobCode": "166",
+            "jobCmsCode": "15"
+          },
+          {
+            "jobName": "アナリスト",
+            "jobDescription": "幅広いデータから株価の評価や予測を行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/060/index.html",
+            "jobCode": "060",
+            "jobCmsCode": "06"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "経済学",
+            "studyDescription": "お金と人間、社会との関係の本質を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/014/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "014",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "機械工学",
+            "studyDescription": "人間と地球に優しい機械を考える",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/051/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "051",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "電気・電子・通信工学",
+            "studyDescription": "エネルギーと情報伝達手段の電気に注目する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/052/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "052",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "情報工学",
+            "studyDescription": "コンピュータのハード、ソフトを研究",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/053/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "053",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "地球科学",
+            "studyDescription": "自然現象を解明し、21世紀の地球を守る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/049/index.html",
+            "studyLargeCode": "15",
+            "studySmallCode": "049",
+            "studyCmsCode": "14"
+          },
+          {
+            "studyName": "医学",
+            "studyDescription": "“生命”を治療や予防の観点から追究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/041/index.html",
+            "studyLargeCode": "12",
+            "studySmallCode": "041",
+            "studyCmsCode": "12"
+          },
+          {
+            "studyName": "歯学",
+            "studyDescription": "歯を通して人々の健康を守る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/042/index.html",
+            "studyLargeCode": "13",
+            "studySmallCode": "042",
+            "studyCmsCode": "12"
+          }
+        ]
+      },
+      {
+        "resultName": "研究性優位型／文化･芸術研究系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt03.png",
+        "resultId": "03",
+        "analysisId": "ad",
+        "commentStudent": "行動するよりも考えるのが好きな、知的好奇心旺盛なあなたは、抽象的な思考能力が高く、物事を分析することに向いています。特に、芸術に対する関心が強く、美意識と直観に優れたあなたは、まだ世の中では広まっていない、新しい感覚によって創造的な表現をする仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、行動するよりも考えるのが好きな傾向があり、知的好奇心が旺盛で、抽象的な思考能力も高く、物事を分析することに向いています。特に、芸術に対する関心が強く、美意識と直観に優れているようです。そのようなお子様には、まだ世の中では広まっていない、新しい感覚によって創造的な表現をする仕事に関心がありそうです。",
+        "job": [
+          {
+            "jobName": "作家",
+            "jobDescription": "文章で自分の考えを世に伝える",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/112/index.html",
+            "jobCode": "112",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "音楽家",
+            "jobDescription": "演奏会以外にも広がる活躍の舞台",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/104/index.html",
+            "jobCode": "104",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "ビデオディレクター、ＡＶデザイナー",
+            "jobDescription": "企画を立て、ビデオ制作を指揮",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/091/index.html",
+            "jobCode": "091",
+            "jobCmsCode": "09"
+          },
+          {
+            "jobName": "イラストレーター",
+            "jobDescription": "多様な印刷物のイラストを描く",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/108/index.html",
+            "jobCode": "108",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "ＣＧデザイナー",
+            "jobDescription": "コンピュータを駆使してデザインをする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/133/index.html",
+            "jobCode": "133",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "アロマセラピスト",
+            "jobDescription": "アロマ（香り）の力で人々の心身を癒す",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/043/index.html",
+            "jobCode": "043",
+            "jobCmsCode": "05"
+          },
+          {
+            "jobName": "調香師",
+            "jobDescription": "職人的嗅覚で生活の中の香りをつくり出す",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/044/index.html",
+            "jobCode": "044",
+            "jobCmsCode": "05"
+          },
+          {
+            "jobName": "建築技術者",
+            "jobDescription": "建築環境も考慮して設計・施工する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/206/index.html",
+            "jobCode": "206",
+            "jobCmsCode": "19"
+          },
+          {
+            "jobName": "プロダクトマネージャー",
+            "jobDescription": "特定の商品を育て上げる責任者",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/101/index.html",
+            "jobCode": "101",
+            "jobCmsCode": "10"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "美術・デザイン",
+            "studyDescription": "「表現したい」という欲求を形にする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/030/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "030",
+            "studyCmsCode": "09"
+          },
+          {
+            "studyName": "芸術理論",
+            "studyDescription": "芸術の理論と技術を社会に生かす",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/032/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "032",
+            "studyCmsCode": "09"
+          },
+          {
+            "studyName": "音楽",
+            "studyDescription": "演奏、教育、歴史から“音楽”にアプローチする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/031/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "031",
+            "studyCmsCode": "09"
+          },
+          {
+            "studyName": "建築・土木・環境工学",
+            "studyDescription": "人間と自然と建物との共生を考える",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/054/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "054",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "化学",
+            "studyDescription": "物質に起こる変化や反応を、積極的に研究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/047/index.html",
+            "studyLargeCode": "15",
+            "studySmallCode": "047",
+            "studyCmsCode": "14"
+          },
+          {
+            "studyName": "情報工学",
+            "studyDescription": "コンピュータのハード、ソフトを研究",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/053/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "053",
+            "studyCmsCode": "15"
+          }
+        ]
+      },
+      {
+        "resultName": "研究性優位型／経済コンサルタント系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt04.png",
+        "resultId": "04",
+        "analysisId": "ae",
+        "commentStudent": "行動するよりも考えるのが好きな、知的好奇心の旺盛なあなたは、抽象的な思考能力が高く、物事を分析することに向いています。特に組織を管理したり、全体の流れを読むことに優れたあなたは、経済や経営の分析をする仕事や、企業研究所などのグループで行う大規模な開発研究が向いています。",
+        "commentGuardian": "あなたのお子様は、行動するよりも考えるのが好きな傾向があり、知的好奇心が旺盛で、抽象的な思考能力も高く、物事を分析することに向いています。特に組織を管理したり、全体の流れを読むことに優れているようです。そのようなお子様は、経済や経営の分析をする仕事や、企業研究所などのグループで行う大規模な開発研究に関心がありそうです。",
+        "job": [
+          {
+            "jobName": "アナリスト",
+            "jobDescription": "幅広いデータから株価の評価や予測を行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/060/index.html",
+            "jobCode": "060",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "経営コンサルタント",
+            "jobDescription": "会社の経営状態を診断し業績アップにつなげる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/059/index.html",
+            "jobCode": "059",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "中小企業診断士",
+            "jobDescription": "中小企業の経営状態を診断・アドバイス",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/058/index.html",
+            "jobCode": "058",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "公認会計士",
+            "jobDescription": "企業の会計業務から経営指導まで行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/056/index.html",
+            "jobCode": "056",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "国家公務員",
+            "jobDescription": "国民のためによりよい社会作りに貢献する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/014/index.html",
+            "jobCode": "014",
+            "jobCmsCode": "02"
+          },
+          {
+            "jobName": "セールスエンジニア",
+            "jobDescription": "情報機器を熟知し顧客に技術的な説明を行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/074/index.html",
+            "jobCode": "074",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "プロダクトマネージャー",
+            "jobDescription": "特定の商品を育て上げる責任者",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/101/index.html",
+            "jobCode": "101",
+            "jobCmsCode": "10"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "経済学",
+            "studyDescription": "お金と人間、社会との関係の本質を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/014/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "014",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "経営情報学",
+            "studyDescription": "企業経営における「情報の活用」を研究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/016/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "016",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "情報工学",
+            "studyDescription": "コンピュータのハード、ソフトを研究",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/053/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "053",
+            "studyCmsCode": "15"
+          }
+        ]
+      },
+      {
+        "resultName": "社会性優位型／医療技術･福祉系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt05.png",
+        "resultId": "05",
+        "analysisId": "ba",
+        "commentStudent": "人の世話をしたり、教えたりすることが好きで、周囲の人たちのことをいつも大事にしているあなたは、対人関係に優れており、人々に奉仕するサービス的な仕事が向いています。特に、物事を分析する抽象的思考に優れたあなたは、困っている人の話をよく聞き、原因を調べて助けるような仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、人の世話をしたり、人に教えたりすることが好きで、周囲の人たちのことをいつも大事にする傾向があるようです。また、優れた対人関係能力を生かし、人々に奉仕するサービス的な仕事に関心が高そうです。特に、物事を分析する抽象的思考に優れているので、困っている人の話をよく聞き、原因を調べて助けるような仕事に魅力を感じるようです。",
+        "job": [
+          {
+            "jobName": "医師",
+            "jobDescription": "病気の原因解明やその治療にあたる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/165/index.html",
+            "jobCode": "165",
+            "jobCmsCode": "15"
+          },
+          {
+            "jobName": "歯科医師",
+            "jobDescription": "歯を中心とした口腔全体の治療に携わる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/166/index.html",
+            "jobCode": "166",
+            "jobCmsCode": "15"
+          },
+          {
+            "jobName": "臨床心理士",
+            "jobDescription": "ストレス社会の頼りになるカウンセラー",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/163/index.html",
+            "jobCode": "163",
+            "jobCmsCode": "14"
+          },
+          {
+            "jobName": "医療ソーシャルワーカー",
+            "jobDescription": "患者の経済的・心理的・社会的問題の解決に尽力",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/157/index.html",
+            "jobCode": "157",
+            "jobCmsCode": "14"
+          },
+          {
+            "jobName": "看護師",
+            "jobDescription": "医師と共に患者の回復に尽くす",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/167/index.html",
+            "jobCode": "167",
+            "jobCmsCode": "15"
+          },
+          {
+            "jobName": "管理栄養士、栄養士",
+            "jobDescription": "学問に裏づけられた栄養管理の専門家",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/049/index.html",
+            "jobCode": "049",
+            "jobCmsCode": "05"
+          },
+          {
+            "jobName": "理学療法士",
+            "jobDescription": "患者の症状に合わせ治療を工夫",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/170/index.html",
+            "jobCode": "170",
+            "jobCmsCode": "15"
+          },
+          {
+            "jobName": "ファイナンシャル・プランナー",
+            "jobDescription": "資産運用の相談に乗り、アドバイスする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/061/index.html",
+            "jobCode": "061",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "経営コンサルタント",
+            "jobDescription": "会社の経営状態を診断し業績アップにつなげる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/059/index.html",
+            "jobCode": "059",
+            "jobCmsCode": "06"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "心理学",
+            "studyDescription": "心のメカニズムを科学する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/004/index.html",
+            "studyLargeCode": "01",
+            "studySmallCode": "004",
+            "studyCmsCode": "01"
+          },
+          {
+            "studyName": "社会福祉学",
+            "studyDescription": "一人ひとりの幸せ、人類全体の幸せを追求する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/018/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "018",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "食物・栄養学",
+            "studyDescription": "栄養バランスのとれたおいしい食を追究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/026/index.html",
+            "studyLargeCode": "08",
+            "studySmallCode": "026",
+            "studyCmsCode": "08"
+          },
+          {
+            "studyName": "看護学",
+            "studyDescription": "身体の痛みと心の悩みをトータルにケアする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/037/index.html",
+            "studyLargeCode": "11",
+            "studySmallCode": "037",
+            "studyCmsCode": "11"
+          },
+          {
+            "studyName": "医療技術",
+            "studyDescription": "検査とリハビリの面から医療に貢献する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/038/index.html",
+            "studyLargeCode": "11",
+            "studySmallCode": "038",
+            "studyCmsCode": "11"
+          },
+          {
+            "studyName": "医学",
+            "studyDescription": "“生命”を治療や予防の観点から追究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/041/index.html",
+            "studyLargeCode": "12",
+            "studySmallCode": "041",
+            "studyCmsCode": "12"
+          },
+          {
+            "studyName": "歯学",
+            "studyDescription": "歯を通して人々の健康を守る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/042/index.html",
+            "studyLargeCode": "13",
+            "studySmallCode": "042",
+            "studyCmsCode": "12"
+          },
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          }
+        ]
+      },
+      {
+        "resultName": "社会性優位型／サービス技術職系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt06.png",
+        "resultId": "06",
+        "analysisId": "bc",
+        "commentStudent": "人の世話をしたり、教えたりすることが好きで、周囲の人たちのことをいつも大事にしているあなたは、対人関係に優れており、人々に奉仕するサービス的な仕事が向いています。特に世の中の出来事に関心が強いあなたは、人々の生活を向上させたり、治安を維持する仕事に活躍するタイプです。",
+        "commentGuardian": "あなたのお子様は、人の世話をしたり、人に教えたりすることが好きで、周囲の人たちのことをいつも大事にする傾向があるようです。また、優れた対人関係能力を生かし、人々に奉仕するサービス的な仕事に関心が高そうです。特に世の中の出来事に関心が強いので、人々の生活を向上させたり、治安を維持する仕事に魅力を感じるようです。",
+        "job": [
+          {
+            "jobName": "弁護士",
+            "jobDescription": "法律を通じて一般市民の権利を守る",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/001/index.html",
+            "jobCode": "001",
+            "jobCmsCode": "01"
+          },
+          {
+            "jobName": "警察官",
+            "jobDescription": "国民の安全を守り、住みよい社会を作る",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/019/index.html",
+            "jobCode": "019",
+            "jobCmsCode": "03"
+          },
+          {
+            "jobName": "消防官",
+            "jobDescription": "災害から人々を守り、暮らしの安全を支える",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/020/index.html",
+            "jobCode": "020",
+            "jobCmsCode": "03"
+          },
+          {
+            "jobName": "理学療法士",
+            "jobDescription": "患者の症状に合わせ治療を工夫",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/170/index.html",
+            "jobCode": "170",
+            "jobCmsCode": "15"
+          },
+          {
+            "jobName": "外交官",
+            "jobDescription": "国家間の交渉の最前線に立つ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/016/index.html",
+            "jobCode": "016",
+            "jobCmsCode": "02"
+          },
+          {
+            "jobName": "地方公務員",
+            "jobDescription": "地域住民が暮らしやすい生活環境をつくる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/013/index.html",
+            "jobCode": "013",
+            "jobCmsCode": "02"
+          },
+          {
+            "jobName": "家庭裁判所調査官（補）",
+            "jobDescription": "家庭内のトラブルや少年事件を調査する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/010/index.html",
+            "jobCode": "010",
+            "jobCmsCode": "01"
+          },
+          {
+            "jobName": "土木系研究･技術者",
+            "jobDescription": "土木工事にかかわる業務を分担して進める",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/208/index.html",
+            "jobCode": "208",
+            "jobCmsCode": "19"
+          },
+          {
+            "jobName": "原子力系研究・技術者",
+            "jobDescription": "原子力を活用・管理する専門家",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/189/index.html",
+            "jobCode": "189",
+            "jobCmsCode": "16"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "法学",
+            "studyDescription": "社会を豊かに発展させるルールを研究",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/012/index.html",
+            "studyLargeCode": "03",
+            "studySmallCode": "012",
+            "studyCmsCode": "03"
+          },
+          {
+            "studyName": "政治学",
+            "studyDescription": "よりよい生活を求め、政治の動きを明らかにする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/013/index.html",
+            "studyLargeCode": "03",
+            "studySmallCode": "013",
+            "studyCmsCode": "03"
+          },
+          {
+            "studyName": "看護学",
+            "studyDescription": "身体の痛みと心の悩みをトータルにケアする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/037/index.html",
+            "studyLargeCode": "11",
+            "studySmallCode": "037",
+            "studyCmsCode": "11"
+          },
+          {
+            "studyName": "建築・土木・環境工学",
+            "studyDescription": "人間と自然と建物との共生を考える",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/054/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "054",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "資源・エネルギー工学",
+            "studyDescription": "地球内部の地下資源が研究対象に",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/059/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "059",
+            "studyCmsCode": "15"
+          }
+        ]
+      },
+      {
+        "resultName": "社会性優位型／福祉･保育系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt07.png",
+        "resultId": "07",
+        "analysisId": "bd",
+        "commentStudent": "人の世話をしたり、教えたりすることが好きで、周囲の人たちのことをいつも大事にしているあなたは、対人関係に優れており、人々に奉仕するサービス的な仕事が向いています。特に、繊細な感覚と美意識を持ち合わせているあなたは柔軟できめ細かな世話が必要とされる仕事に向いているタイプです。",
+        "commentGuardian": "あなたのお子様は、人の世話をしたり、人に教えたりすることが好きで、周囲の人たちのことをいつも大事にする傾向があるようです。また、優れた対人関係能力を生かし、人々に奉仕するサービス的な仕事に関心が高そうです。特に、繊細な感覚と美意識を持ち合わせているので、柔軟できめ細かな世話が必要とされる仕事に魅力を感じるようです。",
+        "job": [
+          {
+            "jobName": "保育士（保母・保父）",
+            "jobDescription": "児童福祉施設で子どもの世話をする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/135/index.html",
+            "jobCode": "135",
+            "jobCmsCode": "13"
+          },
+          {
+            "jobName": "幼稚園教諭",
+            "jobDescription": "幼児の創造力を高め、社会性を養う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/136/index.html",
+            "jobCode": "136",
+            "jobCmsCode": "13"
+          },
+          {
+            "jobName": "小学校教諭",
+            "jobDescription": "教科だけでなく生活全般を指導する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/137/index.html",
+            "jobCode": "137",
+            "jobCmsCode": "13"
+          },
+          {
+            "jobName": "美容師、理容師",
+            "jobDescription": "センスとテクニックがものをいう世界",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/041/index.html",
+            "jobCode": "041",
+            "jobCmsCode": "05"
+          },
+          {
+            "jobName": "社会福祉士",
+            "jobDescription": "福祉の手を必要とする人々を援助する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/154/index.html",
+            "jobCode": "154",
+            "jobCmsCode": "14"
+          },
+          {
+            "jobName": "医療ソーシャルワーカー",
+            "jobDescription": "患者の経済的・心理的・社会的問題の解決に尽力",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/157/index.html",
+            "jobCode": "157",
+            "jobCmsCode": "14"
+          },
+          {
+            "jobName": "心理カウンセラー",
+            "jobDescription": "心の病を癒すカウンセリングのプロ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/162/index.html",
+            "jobCode": "162",
+            "jobCmsCode": "14"
+          },
+          {
+            "jobName": "ファイナンシャル・プランナー",
+            "jobDescription": "資産運用の相談に乗り、アドバイスする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/061/index.html",
+            "jobCode": "061",
+            "jobCmsCode": "06"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "心理学",
+            "studyDescription": "心のメカニズムを科学する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/004/index.html",
+            "studyLargeCode": "01",
+            "studySmallCode": "004",
+            "studyCmsCode": "01"
+          },
+          {
+            "studyName": "教員養成系",
+            "studyDescription": "質の高い教育ができる人材の養成が目的",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/022/index.html",
+            "studyLargeCode": "07",
+            "studySmallCode": "022",
+            "studyCmsCode": "07"
+          },
+          {
+            "studyName": "児童学",
+            "studyDescription": "環境の変化を踏まえて子供の成長を支援する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/028/index.html",
+            "studyLargeCode": "08",
+            "studySmallCode": "028",
+            "studyCmsCode": "08"
+          },
+          {
+            "studyName": "教育学",
+            "studyDescription": "“教育”のあり方を、本質的な部分から探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/023/index.html",
+            "studyLargeCode": "07",
+            "studySmallCode": "023",
+            "studyCmsCode": "07"
+          },
+          {
+            "studyName": "医療技術",
+            "studyDescription": "検査とリハビリの面から医療に貢献する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/038/index.html",
+            "studyLargeCode": "11",
+            "studySmallCode": "038",
+            "studyCmsCode": "11"
+          }
+        ]
+      },
+      {
+        "resultName": "社会性優位型／商社系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt08.png",
+        "resultId": "08",
+        "analysisId": "be",
+        "commentStudent": "人の世話をしたり、教えたりすることが好きで、周囲の人たちのことをいつも大事にしているあなたは、対人関係に優れており、人々に奉仕するサービス的な仕事が向いています。特にバイタリティとエネルギーにあふれ、他人に強くアピールする力のあるあなたは、営業力や企画力で周囲をぐいぐい引っ張っていく企業の仕事にぴったりのタイプです。",
+        "commentGuardian": "あなたのお子様は、人の世話をしたり、人に教えたりすることが好きで、周囲の人たちのことをいつも大事にする傾向があるようです。また、優れた対人関係能力を生かし、人々に奉仕するサービス的な仕事に関心が高そうです。特にバイタリティとエネルギーにあふれ、他人に強くアピールする力があるので、営業力や企画力で周囲をぐいぐい引っ張っていく企業の仕事に魅力を感じるようです。",
+        "job": [
+          {
+            "jobName": "外交官",
+            "jobDescription": "国家間の交渉の最前線に立つ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/016/index.html",
+            "jobCode": "016",
+            "jobCmsCode": "02"
+          },
+          {
+            "jobName": "商社勤務",
+            "jobDescription": "世界を相手に様々な原料・商品を取り引きする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/069/index.html",
+            "jobCode": "069",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "デパート勤務",
+            "jobDescription": "消費者の消費動向の最前線に立つ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/070/index.html",
+            "jobCode": "070",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "流通・小売業勤務",
+            "jobDescription": "日々の暮らしに向き合う職場",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/071/index.html",
+            "jobCode": "071",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "法人営業(企業向け営業）",
+            "jobDescription": "法人を対象にセールスを行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/063/index.html",
+            "jobCode": "063",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "販売担当者",
+            "jobDescription": "接客で得た情報を分析し販売にいかす",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/062/index.html",
+            "jobCode": "062",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "保険会社勤務",
+            "jobDescription": "保険に関するあらゆる業務をこなす",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/054/index.html",
+            "jobCode": "054",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "化粧品会社勤務",
+            "jobDescription": "顧客の美に対する要望にこたえる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/073/index.html",
+            "jobCode": "073",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "経営コンサルタント",
+            "jobDescription": "会社の経営状態を診断し業績アップにつなげる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/059/index.html",
+            "jobCode": "059",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "放送記者",
+            "jobDescription": "事件の現場から生中継でレポート",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/082/index.html",
+            "jobCode": "082",
+            "jobCmsCode": "09"
+          },
+          {
+            "jobName": "レポーター",
+            "jobDescription": "現場の様子を正確に視聴者に伝える",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/083/index.html",
+            "jobCode": "083",
+            "jobCmsCode": "09"
+          },
+          {
+            "jobName": "編集者",
+            "jobDescription": "本の企画を立てでき上がるまでを管理",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/086/index.html",
+            "jobCode": "086",
+            "jobCmsCode": "09"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "国際関係学",
+            "studyDescription": "国と国が相互理解できる世界をめざす",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/021/index.html",
+            "studyLargeCode": "06",
+            "studySmallCode": "021",
+            "studyCmsCode": "06"
+          },
+          {
+            "studyName": "文化学",
+            "studyDescription": "さまざまな文化と創造的思考の源を学ぶ",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/008/index.html",
+            "studyLargeCode": "01",
+            "studySmallCode": "008",
+            "studyCmsCode": "01"
+          },
+          {
+            "studyName": "社会学",
+            "studyDescription": "人間社会における秩序、しくみに注目する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/017/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "017",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "経済学",
+            "studyDescription": "お金と人間、社会との関係の本質を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/014/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "014",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "経営情報学",
+            "studyDescription": "企業経営における「情報の活用」を研究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/016/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "016",
+            "studyCmsCode": "04"
+          }
+        ]
+      },
+      {
+        "resultName": "現実性優位型／法務･経理系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt09.png",
+        "resultId": "09",
+        "analysisId": "ca",
+        "commentStudent": "抽象的に考えるよりも具体的に考えることが好きで、特殊な技術を身につけることが好きなあなたは、ミスが許されない細かい作業に向いています。細部まで物事を分析する緻密な面があるので、法律や経理など細かい専門知識を駆使する仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、抽象的に考えるよりも具体的に考えることが好きで、特殊な技術を身につけることが好きなようですから、根気のいる専門的な仕事に関心が高そうです。特に、細部まで物事を分析する緻密な面があるので、法律や経理など細かい専門知識を駆使する仕事に魅力を感じるようです。",
+        "job": [
+          {
+            "jobName": "公認会計士",
+            "jobDescription": "企業の会計業務から経営指導まで行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/056/index.html",
+            "jobCode": "056",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "税理士",
+            "jobDescription": "税務や会計を代行し相談役も務める",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/057/index.html",
+            "jobCode": "057",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "弁護士",
+            "jobDescription": "法律を通じて一般市民の権利を守る",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/001/index.html",
+            "jobCode": "001",
+            "jobCmsCode": "01"
+          },
+          {
+            "jobName": "検察官",
+            "jobDescription": "犯罪を捜査し被疑者を起訴する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/002/index.html",
+            "jobCode": "002",
+            "jobCmsCode": "01"
+          },
+          {
+            "jobName": "社会保険労務士",
+            "jobDescription": "社会保険事務や労務管理に携わる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/006/index.html",
+            "jobCode": "006",
+            "jobCmsCode": "01"
+          },
+          {
+            "jobName": "銀行員",
+            "jobDescription": "窓口業務だけでなく大金も取引する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/052/index.html",
+            "jobCode": "052",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "システムエンジニア",
+            "jobDescription": "使い手のニーズに合ったソフトを開発する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/198/index.html",
+            "jobCode": "198",
+            "jobCmsCode": "18"
+          },
+          {
+            "jobName": "医師",
+            "jobDescription": "病気の原因解明やその治療にあたる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/165/index.html",
+            "jobCode": "165",
+            "jobCmsCode": "15"
+          },
+          {
+            "jobName": "システム監査技術者",
+            "jobDescription": "情報システムを総合的に評価し、安全を守る",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/203/index.html",
+            "jobCode": "203",
+            "jobCmsCode": "18"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "法学",
+            "studyDescription": "社会を豊かに発展させるルールを研究",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/012/index.html",
+            "studyLargeCode": "03",
+            "studySmallCode": "012",
+            "studyCmsCode": "03"
+          },
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "総合情報学",
+            "studyDescription": "情報をツールとしてあらゆる範囲の問題を考える",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/035/index.html",
+            "studyLargeCode": "10",
+            "studySmallCode": "035",
+            "studyCmsCode": "10"
+          },
+          {
+            "studyName": "情報科学",
+            "studyDescription": "コンピュータを利用して情報の活用法を研究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/045/index.html",
+            "studyLargeCode": "15",
+            "studySmallCode": "045",
+            "studyCmsCode": "14"
+          }
+        ]
+      },
+      {
+        "resultName": "現実性優位型／公務･保安系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt10.png",
+        "resultId": "10",
+        "analysisId": "cb",
+        "commentStudent": "抽象的に考えるよりも具体的に考えることが好きで、特殊な技術を身につけることが好きなあなたは、ミスが許されない厳密な仕事に向いています。特に社会への関心も高く、人々の役に立つことを求めているあなたは、緊急事態の厳しい現場でも冷静に活躍するタイプです。",
+        "commentGuardian": "あなたのお子様は、抽象的に考えるよりも具体的に考えることが好きで、特殊な技術を身につけることが好きなタイプですから、根気のいる専門的な作業に関心をもちそうです。特に社会への関心も高く、人々の役に立つことを求めているので、緊急事態の厳しい現場でも冷静さが求められる仕事に魅力を感じるようです。",
+        "job": [
+          {
+            "jobName": "消防官",
+            "jobDescription": "災害から人々を守り、暮らしの安全を支える",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/020/index.html",
+            "jobCode": "020",
+            "jobCmsCode": "03"
+          },
+          {
+            "jobName": "自衛官",
+            "jobDescription": "日本の平和と独立を守り国の安全を保つ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/023/index.html",
+            "jobCode": "023",
+            "jobCmsCode": "03"
+          },
+          {
+            "jobName": "救急救命士",
+            "jobDescription": "救急車の中などで患者に救急救命処置を施す",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/021/index.html",
+            "jobCode": "021",
+            "jobCmsCode": "03"
+          },
+          {
+            "jobName": "警察官",
+            "jobDescription": "国民の安全を守り、住みよい社会を作る",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/019/index.html",
+            "jobCode": "019",
+            "jobCmsCode": "03"
+          },
+          {
+            "jobName": "国税専門官",
+            "jobDescription": "国の財源を支える税務のスペシャリスト",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/017/index.html",
+            "jobCode": "017",
+            "jobCmsCode": "02"
+          },
+          {
+            "jobName": "海上保安官",
+            "jobDescription": "災害時の救難活動のほか海図などの刊行も行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/022/index.html",
+            "jobCode": "022",
+            "jobCmsCode": "03"
+          },
+          {
+            "jobName": "入国審査官",
+            "jobDescription": "入国が妥当かどうか決定する権限を持つ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/024/index.html",
+            "jobCode": "024",
+            "jobCmsCode": "03"
+          },
+          {
+            "jobName": "通関士",
+            "jobDescription": "通関手続きを代行して申告を行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/025/index.html",
+            "jobCode": "025",
+            "jobCmsCode": "03"
+          },
+          {
+            "jobName": "大使館勤務",
+            "jobDescription": "国際交流の最前線で働く窓口役",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/026/index.html",
+            "jobCode": "026",
+            "jobCmsCode": "03"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "法学",
+            "studyDescription": "社会を豊かに発展させるルールを研究",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/012/index.html",
+            "studyLargeCode": "03",
+            "studySmallCode": "012",
+            "studyCmsCode": "03"
+          },
+          {
+            "studyName": "国際関係学",
+            "studyDescription": "国と国が相互理解できる世界をめざす",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/021/index.html",
+            "studyLargeCode": "06",
+            "studySmallCode": "021",
+            "studyCmsCode": "06"
+          },
+          {
+            "studyName": "文化学",
+            "studyDescription": "さまざまな文化と創造的思考の源を学ぶ",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/008/index.html",
+            "studyLargeCode": "01",
+            "studySmallCode": "008",
+            "studyCmsCode": "01"
+          },
+          {
+            "studyName": "社会学",
+            "studyDescription": "人間社会における秩序、しくみに注目する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/017/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "017",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "経済学",
+            "studyDescription": "お金と人間、社会との関係の本質を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/014/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "014",
+            "studyCmsCode": "04"
+          }
+        ]
+      },
+      {
+        "resultName": "現実性優位型／表現技術系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt11.png",
+        "resultId": "11",
+        "analysisId": "cd",
+        "commentStudent": "抽象的に考えるよりも具体的に考えることが得意で、技術を身につけることが好きなあなたは、根気がいる細かい作業が向いています。特に美意識に優れ、物事を深く感じ取ることができる感性を持っているので、技術とセンスを生かした職人仕事に向いています。",
+        "commentGuardian": "あなたのお子様は、抽象的に考えるよりも具体的に考えることが好きで、特殊な技術を身につけることが好きなタイプですから、根気のいる専門的な作業に関心を持ちそうです。特に美意識に優れ、物事を深く感じ取ることができる感性を持っているようですから、技術とセンスを生かした職人的な仕事に魅力を感じるようです。",
+        "job": [
+          {
+            "jobName": "ガーデンデザイナー",
+            "jobDescription": "歴史、文化、季節感を庭園空間で演出",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/127/index.html",
+            "jobCode": "127",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "建築技術者",
+            "jobDescription": "建築環境も考慮して設計・施工する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/206/index.html",
+            "jobCode": "206",
+            "jobCmsCode": "19"
+          },
+          {
+            "jobName": "ＣＧデザイナー",
+            "jobDescription": "コンピュータを駆使してデザインをする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/133/index.html",
+            "jobCode": "133",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "放送記者",
+            "jobDescription": "事件の現場から生中継でレポート",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/082/index.html",
+            "jobCode": "082",
+            "jobCmsCode": "09"
+          },
+          {
+            "jobName": "ＤＪ",
+            "jobDescription": "トークと選曲で聴衆の心をつかむ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/118/index.html",
+            "jobCode": "118",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "トリマー",
+            "jobDescription": "ペットの毛並みの手入れから健康管理まで",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/045/index.html",
+            "jobCode": "045",
+            "jobCmsCode": "05"
+          },
+          {
+            "jobName": "美容師、理容師",
+            "jobDescription": "センスとテクニックがものをいう世界",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/041/index.html",
+            "jobCode": "041",
+            "jobCmsCode": "05"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "その他芸術",
+            "studyDescription": "美術、音楽以外の芸術的表現を究める",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/033/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "033",
+            "studyCmsCode": "09"
+          },
+          {
+            "studyName": "建築・土木・環境工学",
+            "studyDescription": "人間と自然と建物との共生を考える",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/054/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "054",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "工業デザイン",
+            "studyDescription": "人間と工学との接点をデザインする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/064/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "064",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "情報工学",
+            "studyDescription": "コンピュータのハード、ソフトを研究",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/053/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "053",
+            "studyCmsCode": "15"
+          }
+        ]
+      },
+      {
+        "resultName": "現実性優位型／教職･指導員系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt12.png",
+        "resultId": "12",
+        "analysisId": "ce",
+        "commentStudent": "抽象的に考えるよりも具体的に考えることが得意で、技術を身につけることが好きなあなたは、根気がいる専門的な作業が向いています。特にバイタリティとエネルギーにあふれ、リーダーシップをとることが得意なので、多くの人々を根気よく動かしていく仕事や、現場で技術を指導する仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、抽象的に考えるよりも具体的に考えることが好きで、特殊な技術を身につけることが好きなタイプですから、根気のいる専門的な作業に関心を持ちそうです。特にバイタリティとエネルギーにあふれ、リーダーシップをとることが得意なので、多くの人々を根気よく動かしていく仕事や、現場で指導する仕事に魅力を感じるようです。",
+        "job": [
+          {
+            "jobName": "国家公務員",
+            "jobDescription": "国民のためによりよい社会作りに貢献する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/014/index.html",
+            "jobCode": "014",
+            "jobCmsCode": "02"
+          },
+          {
+            "jobName": "スポーツインストラクター",
+            "jobDescription": "科学的なメニューでスポーツを指導する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/036/index.html",
+            "jobCode": "036",
+            "jobCmsCode": "04"
+          },
+          {
+            "jobName": "中学校教諭",
+            "jobDescription": "専門教科の指導に加え進路・生活指導も大切",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/138/index.html",
+            "jobCode": "138",
+            "jobCmsCode": "13"
+          },
+          {
+            "jobName": "高校教諭",
+            "jobDescription": "専門的な知識で教科を教える",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/139/index.html",
+            "jobCode": "139",
+            "jobCmsCode": "13"
+          },
+          {
+            "jobName": "消費生活アドバイザー",
+            "jobDescription": "消費者の生の声を商品に反映させる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/037/index.html",
+            "jobCode": "037",
+            "jobCmsCode": "04"
+          },
+          {
+            "jobName": "ブライダルコーディネーター",
+            "jobDescription": "結婚式全般に関する相談役",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/038/index.html",
+            "jobCode": "038",
+            "jobCmsCode": "04"
+          },
+          {
+            "jobName": "ツアーコンダクター",
+            "jobDescription": "団体ツアー客の案内役兼アドバイザー",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/032/index.html",
+            "jobCode": "032",
+            "jobCmsCode": "04"
+          },
+          {
+            "jobName": "管理栄養士、栄養士",
+            "jobDescription": "学問に裏づけられた栄養管理の専門家",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/049/index.html",
+            "jobCode": "049",
+            "jobCmsCode": "05"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "観光学",
+            "studyDescription": "さまざまな学問分野の観点から観光を研究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/019/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "019",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "教員養成系",
+            "studyDescription": "質の高い教育ができる人材の養成が目的",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/022/index.html",
+            "studyLargeCode": "07",
+            "studySmallCode": "022",
+            "studyCmsCode": "07"
+          },
+          {
+            "studyName": "教育学",
+            "studyDescription": "“教育”のあり方を、本質的な部分から探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/023/index.html",
+            "studyLargeCode": "07",
+            "studySmallCode": "023",
+            "studyCmsCode": "07"
+          },
+          {
+            "studyName": "生活科学",
+            "studyDescription": "快適な人間の“生活”をトータルに追求する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/025/index.html",
+            "studyLargeCode": "08",
+            "studySmallCode": "025",
+            "studyCmsCode": "08"
+          },
+          {
+            "studyName": "体育・健康科学",
+            "studyDescription": "“運動”を科学的に研究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/039/index.html",
+            "studyLargeCode": "11",
+            "studySmallCode": "039",
+            "studyCmsCode": "11"
+          }
+        ]
+      },
+      {
+        "resultName": "芸術性優位型／芸術･文学系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt13.png",
+        "resultId": "13",
+        "analysisId": "da",
+        "commentStudent": "他人とかかわるよりも、自分の内面を深く掘り下げることが好きなあなたは、優れた直観と美意識を持っているようです。特に新しい試みを求め、知的探求心も旺盛なあなたは、芸術や文学など作品を通じて自己表現をする仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、他人とかかわるよりも自分の内面を深く掘り下げることに関心があり、優れた直観と美意識を持っているようです。特に知的探求心も旺盛で、新しい試みを求めているようですから、芸術や文学など作品を通じて自己表現をする仕事に高い関心を示しそうです。",
+        "job": [
+          {
+            "jobName": "画家",
+            "jobDescription": "日本画と洋画では描く手法が異なる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/106/index.html",
+            "jobCode": "106",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "イラストレーター",
+            "jobDescription": "多様な印刷物のイラストを描く",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/108/index.html",
+            "jobCode": "108",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "グラフィックデザイナー",
+            "jobDescription": "印刷物からデジタル媒体まで幅広くデザイン",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/132/index.html",
+            "jobCode": "132",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "ＣＧデザイナー",
+            "jobDescription": "コンピュータを駆使してデザインをする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/133/index.html",
+            "jobCode": "133",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "ビデオディレクター、ＡＶデザイナー",
+            "jobDescription": "企画を立て、ビデオ制作を指揮",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/091/index.html",
+            "jobCode": "091",
+            "jobCmsCode": "09"
+          },
+          {
+            "jobName": "作詞家、作曲家",
+            "jobDescription": "豊かで鋭い感性を持ち時代の音楽を作る",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/103/index.html",
+            "jobCode": "103",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "演出家",
+            "jobDescription": "作品を芸術にまで高める舞台表現のプロ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/120/index.html",
+            "jobCode": "120",
+            "jobCmsCode": "11"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "日本文学",
+            "studyDescription": "文学を通して、日本を知る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/001/index.html",
+            "studyLargeCode": "01",
+            "studySmallCode": "001",
+            "studyCmsCode": "01"
+          },
+          {
+            "studyName": "外国文学",
+            "studyDescription": "文学を通して、その国や地域を知る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/002/index.html",
+            "studyLargeCode": "01",
+            "studySmallCode": "002",
+            "studyCmsCode": "01"
+          },
+          {
+            "studyName": "美術・デザイン",
+            "studyDescription": "「表現したい」という欲求を形にする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/030/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "030",
+            "studyCmsCode": "09"
+          },
+          {
+            "studyName": "音楽",
+            "studyDescription": "演奏、教育、歴史から“音楽”にアプローチする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/031/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "031",
+            "studyCmsCode": "09"
+          },
+          {
+            "studyName": "その他芸術",
+            "studyDescription": "美術、音楽以外の芸術的表現を究める",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/033/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "033",
+            "studyCmsCode": "09"
+          },
+          {
+            "studyName": "情報工学",
+            "studyDescription": "コンピュータのハード、ソフトを研究",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/053/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "053",
+            "studyCmsCode": "15"
+          }
+        ]
+      },
+      {
+        "resultName": "芸術性優位型／モード・ファッション系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt14.png",
+        "resultId": "14",
+        "analysisId": "db",
+        "commentStudent": "他人とかかわるよりも、自分の内面を深く掘り下げることが好きなあなたは、優れた直観と美意識を持っているようです。特に社会性が高く、世の中の動きに敏感なあなたは、流行の先端を追い求めるファッション性の高い仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、他人とかかわるよりも自分の内面を深く掘り下げることに関心があり、優れた直観と美意識を持っているようです。特に社会性が高く、世の中の動きに敏感な面があるので、流行の先端を追い求めるファッション性の高い仕事に高い関心を示しそうです。",
+        "job": [
+          {
+            "jobName": "ファッションデザイナー",
+            "jobDescription": "独自のブランドか企業のデザイナーか",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/123/index.html",
+            "jobCode": "123",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "スタイリスト",
+            "jobDescription": "ビジュアル効果を考えて全身をコーディネート",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/121/index.html",
+            "jobCode": "121",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "編集者",
+            "jobDescription": "本の企画を立てでき上がるまでを管理",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/086/index.html",
+            "jobCode": "086",
+            "jobCmsCode": "09"
+          },
+          {
+            "jobName": "テキスタイルデザイナー",
+            "jobDescription": "ファッションの素材となる布をデザインする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/128/index.html",
+            "jobCode": "128",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "フラワーコーディネーター",
+            "jobDescription": "花で空間イメージをつくり上げる演出家",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/131/index.html",
+            "jobCode": "131",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "ブックデザイナー(装丁家)",
+            "jobDescription": "質感にもこだわって、売れる本をデザイン",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/130/index.html",
+            "jobCode": "130",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "ジュエリーデザイナー",
+            "jobDescription": "ファッションを引き立てる宝石をデザイン",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/126/index.html",
+            "jobCode": "126",
+            "jobCmsCode": "12"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "マスコミ学",
+            "studyDescription": "多様化するマスコミとマスメディアを研究しそのあるべき姿を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/020/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "020",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "被服学",
+            "studyDescription": "科学と文化の両面から被服を考える",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/027/index.html",
+            "studyLargeCode": "08",
+            "studySmallCode": "027",
+            "studyCmsCode": "08"
+          },
+          {
+            "studyName": "美術・デザイン",
+            "studyDescription": "「表現したい」という欲求を形にする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/030/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "030",
+            "studyCmsCode": "09"
+          },
+          {
+            "studyName": "建築・土木・環境工学",
+            "studyDescription": "人間と自然と建物との共生を考える",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/054/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "054",
+            "studyCmsCode": "15"
+          }
+        ]
+      },
+      {
+        "resultName": "芸術性優位型／工芸系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt15.png",
+        "resultId": "15",
+        "analysisId": "dc",
+        "commentStudent": "他人とかかわるよりも、自分の内面を深く掘り下げることが好きなあなたは、優れた直観と美意識を持っているようです。また、抽象的に考えるよりも具体的に考えることが得意で、技術とセンスを生かした職人仕事に向いています。",
+        "commentGuardian": "あなたのお子様は、他人とかかわるよりも自分の内面を深く掘り下げることに関心があり、優れた直観と美意識を持っているようです。また、抽象的に考えるよりも具体的に考えることが得意で、技術を身につけることを好むようなので、技術とセンスを生かした職人的な仕事に高い関心を示しそうです。",
+        "job": [
+          {
+            "jobName": "建築技術者",
+            "jobDescription": "建築環境も考慮して設計・施工する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/206/index.html",
+            "jobCode": "206",
+            "jobCmsCode": "19"
+          },
+          {
+            "jobName": "建築大工",
+            "jobDescription": "日本の伝統的な木造建築を支える",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/207/index.html",
+            "jobCode": "207",
+            "jobCmsCode": "19"
+          },
+          {
+            "jobName": "画家",
+            "jobDescription": "日本画と洋画では描く手法が異なる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/106/index.html",
+            "jobCode": "106",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "インダストリアルデザイナー",
+            "jobDescription": "多種多様な製品のデザインを考案する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/134/index.html",
+            "jobCode": "134",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "テキスタイルデザイナー",
+            "jobDescription": "ファッションの素材となる布をデザインする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/128/index.html",
+            "jobCode": "128",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "フォトグラファー",
+            "jobDescription": "メディアを彩る写真を撮影",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/110/index.html",
+            "jobCode": "110",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "ＣＧデザイナー",
+            "jobDescription": "コンピュータを駆使してデザインをする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/133/index.html",
+            "jobCode": "133",
+            "jobCmsCode": "12"
+          },
+          {
+            "jobName": "パティシエ",
+            "jobDescription": "専門店やホテルなどで洋菓子作りに携わる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/050/index.html",
+            "jobCode": "050",
+            "jobCmsCode": "05"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "食物・栄養学",
+            "studyDescription": "栄養バランスのとれたおいしい食を追究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/026/index.html",
+            "studyLargeCode": "08",
+            "studySmallCode": "026",
+            "studyCmsCode": "08"
+          },
+          {
+            "studyName": "美術・デザイン",
+            "studyDescription": "「表現したい」という欲求を形にする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/030/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "030",
+            "studyCmsCode": "09"
+          },
+          {
+            "studyName": "建築・土木・環境工学",
+            "studyDescription": "人間と自然と建物との共生を考える",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/054/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "054",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "その他芸術",
+            "studyDescription": "美術、音楽以外の芸術的表現を究める",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/033/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "033",
+            "studyCmsCode": "09"
+          },
+          {
+            "studyName": "工業デザイン",
+            "studyDescription": "人間と工学との接点をデザインする",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/064/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "064",
+            "studyCmsCode": "15"
+          }
+        ]
+      },
+      {
+        "resultName": "芸術性優位型／エンターテインメント系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt16.png",
+        "resultId": "16",
+        "analysisId": "de",
+        "commentStudent": "他人とかかわるよりも、自分の内面を深く掘り下げることが好きなあなたは、優れた直観と美意識を持っているようです。特に集団を組織するリーダーシップにあふれ、人を引きつける魅力を持ったあなたは、そのセンスとリーダーシップを生かした、商業的なエンターテインメントの分野の仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、他人とかかわるよりも自分の内面を深く掘り下げることに関心があり、優れた直観と美意識を持っているようです。特に集団を組織するリーダーシップを持ち、人を引きつける魅力を備えているようなので、センスとリーダーシップを生かした、商業的なエンターテインメントの分野の仕事に高い関心を示しそうです。",
+        "job": [
+          {
+            "jobName": "ＴＶディレクター、プロデューサー",
+            "jobDescription": "テレビ番組の成功のかぎを握る",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/081/index.html",
+            "jobCode": "081",
+            "jobCmsCode": "09"
+          },
+          {
+            "jobName": "イベントプランナー",
+            "jobDescription": "企画から開催までイベントを総合的に管理",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/096/index.html",
+            "jobCode": "096",
+            "jobCmsCode": "10"
+          },
+          {
+            "jobName": "広告代理店勤務",
+            "jobDescription": "広告戦略を練り、適切な媒体をセレクト",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/094/index.html",
+            "jobCode": "094",
+            "jobCmsCode": "10"
+          },
+          {
+            "jobName": "映画監督",
+            "jobDescription": "映画づくりの総指揮者",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/116/index.html",
+            "jobCode": "116",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "演出家",
+            "jobDescription": "作品を芸術にまで高める舞台表現のプロ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/120/index.html",
+            "jobCode": "120",
+            "jobCmsCode": "11"
+          },
+          {
+            "jobName": "クリエイティブディレクター",
+            "jobDescription": "キャンペーンの企画から現場の管理まで",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/095/index.html",
+            "jobCode": "095",
+            "jobCmsCode": "10"
+          },
+          {
+            "jobName": "コピーライター",
+            "jobDescription": "広告に欠かせないコピーを作り出す",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/089/index.html",
+            "jobCode": "089",
+            "jobCmsCode": "09"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "社会学",
+            "studyDescription": "人間社会における秩序、しくみに注目する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/017/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "017",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "文化学",
+            "studyDescription": "さまざまな文化と創造的思考の源を学ぶ",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/008/index.html",
+            "studyLargeCode": "01",
+            "studySmallCode": "008",
+            "studyCmsCode": "01"
+          },
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "マスコミ学",
+            "studyDescription": "多様化するマスコミとマスメディアを研究しそのあるべき姿を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/020/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "020",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "その他芸術",
+            "studyDescription": "美術、音楽以外の芸術的表現を究める",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/033/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "033",
+            "studyCmsCode": "09"
+          }
+        ]
+      },
+      {
+        "resultName": "社交性優位型／ベンチャー系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt17.png",
+        "resultId": "17",
+        "analysisId": "ea",
+        "commentStudent": "組織の中で働くのが好きで、対人関係を調整することが得意なあなたは、さまざまな人をつないでネットワークを形成することに長けているようです。特に新しい実験的な試みを好み、常に自分の知的好奇心を満足させたい探求心豊かなあなたは、ベンチャー系の独立性の高い仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、組織の中で働くことを好み、対人関係を調整することが得意で、さまざまな人をつないでネットワークを形成することに長けているようです。特に探求心が豊かで、新しい試みを好み、常に自分の知的好奇心を満足させたいと思っているようなので、ベンチャー系の独立性の高い仕事に高い関心を示しそうです。",
+        "job": [
+          {
+            "jobName": "法人営業(企業向け営業）",
+            "jobDescription": "法人を対象にセールスを行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/063/index.html",
+            "jobCode": "063",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "人材派遣会社勤務",
+            "jobDescription": "人が欲しい企業と、仕事が欲しい人のパイプ役",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/040/index.html",
+            "jobCode": "040",
+            "jobCmsCode": "04"
+          },
+          {
+            "jobName": "経営コンサルタント",
+            "jobDescription": "会社の経営状態を診断し業績アップにつなげる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/059/index.html",
+            "jobCode": "059",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "プロダクトマネージャー",
+            "jobDescription": "特定の商品を育て上げる責任者",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/101/index.html",
+            "jobCode": "101",
+            "jobCmsCode": "10"
+          },
+          {
+            "jobName": "システムエンジニア",
+            "jobDescription": "使い手のニーズに合ったソフトを開発する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/198/index.html",
+            "jobCode": "198",
+            "jobCmsCode": "18"
+          },
+          {
+            "jobName": "プログラマー",
+            "jobDescription": "コンピュータを動かすプログラムを作成する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/197/index.html",
+            "jobCode": "197",
+            "jobCmsCode": "18"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "人間科学",
+            "studyDescription": "“人間”そのものをさまざまな角度から分析する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/034/index.html",
+            "studyLargeCode": "10",
+            "studySmallCode": "034",
+            "studyCmsCode": "10"
+          },
+          {
+            "studyName": "建築・土木・環境工学",
+            "studyDescription": "人間と自然と建物との共生を考える",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/054/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "054",
+            "studyCmsCode": "15"
+          },
+          {
+            "studyName": "情報工学",
+            "studyDescription": "コンピュータのハード、ソフトを研究",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/053/index.html",
+            "studyLargeCode": "16",
+            "studySmallCode": "053",
+            "studyCmsCode": "15"
+          }
+        ]
+      },
+      {
+        "resultName": "社交性優位型／営業系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt18.png",
+        "resultId": "18",
+        "analysisId": "eb",
+        "commentStudent": "組織の中で働くのが好きで、対人関係を調整することが得意なあなたは、さまざまな人をつないでネットワークを形成することに長けているようです。特に社会性が高く、世の中に幅広い関心を持っているようですから、多様なニーズを発掘し、商品を販売する仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、組織の中で働くことを好み、対人関係を調整することが得意で、さまざまな人をつないでネットワークを形成することに長けているようです。特に社会性が高く、世の中に幅広い関心を持っているようですから、商品を販売する仕事に高い関心を示しそうです。",
+        "job": [
+          {
+            "jobName": "商社勤務",
+            "jobDescription": "世界を相手に様々な原料・商品を取り引きする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/069/index.html",
+            "jobCode": "069",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "法人営業(企業向け営業）",
+            "jobDescription": "法人を対象にセールスを行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/063/index.html",
+            "jobCode": "063",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "接客営業（訪販セールス）",
+            "jobDescription": "見込み客に個別にアプローチ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/064/index.html",
+            "jobCode": "064",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "デパート勤務",
+            "jobDescription": "消費者の消費動向の最前線に立つ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/070/index.html",
+            "jobCode": "070",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "保険会社勤務",
+            "jobDescription": "保険に関するあらゆる業務をこなす",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/054/index.html",
+            "jobCode": "054",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "証券会社勤務",
+            "jobDescription": "企業や経済の動向に常にアンテナを張る",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/053/index.html",
+            "jobCode": "053",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "食品メーカー勤務",
+            "jobDescription": "消費者が今求めている味を追究する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/072/index.html",
+            "jobCode": "072",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "電機メーカー勤務",
+            "jobDescription": "暮らしに密着した電機製品づくりにかかわる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/102/index.html",
+            "jobCode": "102",
+            "jobCmsCode": "10"
+          },
+          {
+            "jobName": "自動車メーカー勤務",
+            "jobDescription": "新しい車の開発からカーライフのサポートまで",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/220/index.html",
+            "jobCode": "220",
+            "jobCmsCode": "20"
+          },
+          {
+            "jobName": "レポーター",
+            "jobDescription": "現場の様子を正確に視聴者に伝える",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/083/index.html",
+            "jobCode": "083",
+            "jobCmsCode": "09"
+          },
+          {
+            "jobName": "広告代理店勤務",
+            "jobDescription": "広告戦略を練り、適切な媒体をセレクト",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/094/index.html",
+            "jobCode": "094",
+            "jobCmsCode": "10"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "経済学",
+            "studyDescription": "お金と人間、社会との関係の本質を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/014/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "014",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "経営情報学",
+            "studyDescription": "企業経営における「情報の活用」を研究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/016/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "016",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "社会学",
+            "studyDescription": "人間社会における秩序、しくみに注目する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/017/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "017",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "文化学",
+            "studyDescription": "さまざまな文化と創造的思考の源を学ぶ",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/008/index.html",
+            "studyLargeCode": "01",
+            "studySmallCode": "008",
+            "studyCmsCode": "01"
+          }
+        ]
+      },
+      {
+        "resultName": "社交性優位型／経営管理系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt19.png",
+        "resultId": "19",
+        "analysisId": "ec",
+        "commentStudent": "組織の中で働くのが好きで、対人関係を調整することが得意なあなたは、さまざまな人をつないでネットワークを形成することに長けているようです。特に特殊な技術を身に付けることが好きなあなたは、ミスの許されない綿密さが必要とされる仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、組織の中で働くことを好み、対人関係を調整することが得意で、さまざまな人をつないでネットワークを形成することに長けているようです。特に、特殊な技術を身に付けることを好むようですから、ミスの許されない綿密さが必要とされる仕事に高い関心を示しそうです。",
+        "job": [
+          {
+            "jobName": "経営コンサルタント",
+            "jobDescription": "会社の経営状態を診断し業績アップにつなげる",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/059/index.html",
+            "jobCode": "059",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "公認会計士",
+            "jobDescription": "企業の会計業務から経営指導まで行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/056/index.html",
+            "jobCode": "056",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "税理士",
+            "jobDescription": "税務や会計を代行し相談役も務める",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/057/index.html",
+            "jobCode": "057",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "商社勤務",
+            "jobDescription": "世界を相手に様々な原料・商品を取り引きする",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/069/index.html",
+            "jobCode": "069",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "法人営業(企業向け営業）",
+            "jobDescription": "法人を対象にセールスを行う",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/063/index.html",
+            "jobCode": "063",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "接客営業（訪販セールス）",
+            "jobDescription": "見込み客に個別にアプローチ",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/064/index.html",
+            "jobCode": "064",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "銀行員",
+            "jobDescription": "窓口業務だけでなく大金も取引する",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/052/index.html",
+            "jobCode": "052",
+            "jobCmsCode": "06"
+          },
+          {
+            "jobName": "プロダクトマネージャー",
+            "jobDescription": "特定の商品を育て上げる責任者",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/101/index.html",
+            "jobCode": "101",
+            "jobCmsCode": "10"
+          },
+          {
+            "jobName": "流通・小売業勤務",
+            "jobDescription": "日々の暮らしに向き合う職場",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/071/index.html",
+            "jobCode": "071",
+            "jobCmsCode": "07"
+          },
+          {
+            "jobName": "中学校教諭",
+            "jobDescription": "専門教科の指導に加え進路・生活指導も大切",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/138/index.html",
+            "jobCode": "138",
+            "jobCmsCode": "13"
+          },
+          {
+            "jobName": "高校教諭",
+            "jobDescription": "専門的な知識で教科を教える",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/139/index.html",
+            "jobCode": "139",
+            "jobCmsCode": "13"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "法学",
+            "studyDescription": "社会を豊かに発展させるルールを研究",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/012/index.html",
+            "studyLargeCode": "03",
+            "studySmallCode": "012",
+            "studyCmsCode": "03"
+          },
+          {
+            "studyName": "経済学",
+            "studyDescription": "お金と人間、社会との関係の本質を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/014/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "014",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "経営情報学",
+            "studyDescription": "企業経営における「情報の活用」を研究する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/016/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "016",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "社会学",
+            "studyDescription": "人間社会における秩序、しくみに注目する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/017/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "017",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "教員養成系",
+            "studyDescription": "質の高い教育ができる人材の養成が目的",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/022/index.html",
+            "studyLargeCode": "07",
+            "studySmallCode": "022",
+            "studyCmsCode": "07"
+          }
+        ]
+      },
+      {
+        "resultName": "社交性優位型／広告･イベント系",
+        "resultPictUrl": "./resources/img/tekisei/result/r_apt20.png",
+        "resultId": "20",
+        "analysisId": "ed",
+        "commentStudent": "組織の中で働くのが好きで、対人関係を調整することが得意なあなたは、さまざまな人をつないでネットワークを形成することに長けているようです。特に感性が豊かで表現能力に優れたあなたは、そのセンスとバイタリティを生かした、商業的な宣伝やイベントの仕事が向いています。",
+        "commentGuardian": "あなたのお子様は、組織の中で働くことを好み、対人関係を調整することが得意で、さまざまな人をつないでネットワークを形成することに長けているようです。特に感性が豊かで表現能力に優れている面があるようなので、そのセンスとバイタリティを生かした、商業的な宣伝やイベントの仕事に高い関心を示しそうです。",
+        "job": [
+          {
+            "jobName": "広告代理店勤務",
+            "jobDescription": "広告戦略を練り、適切な媒体をセレクト",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/094/index.html",
+            "jobCode": "094",
+            "jobCmsCode": "10"
+          },
+          {
+            "jobName": "イベントプランナー",
+            "jobDescription": "企画から開催までイベントを総合的に管理",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/096/index.html",
+            "jobCode": "096",
+            "jobCmsCode": "10"
+          },
+          {
+            "jobName": "ＴＶディレクター、プロデューサー",
+            "jobDescription": "テレビ番組の成功のかぎを握る",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/081/index.html",
+            "jobCode": "081",
+            "jobCmsCode": "09"
+          },
+          {
+            "jobName": "放送記者",
+            "jobDescription": "事件の現場から生中継でレポート",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/082/index.html",
+            "jobCode": "082",
+            "jobCmsCode": "09"
+          },
+          {
+            "jobName": "ブライダルコーディネーター",
+            "jobDescription": "結婚式全般に関する相談役",
+            "jobUrl": "https://manabi.benesse.ne.jp/shokugaku/job/list/038/index.html",
+            "jobCode": "038",
+            "jobCmsCode": "04"
+          }
+        ],
+        "study": [
+          {
+            "studyName": "日本文学",
+            "studyDescription": "文学を通して、日本を知る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/001/index.html",
+            "studyLargeCode": "01",
+            "studySmallCode": "001",
+            "studyCmsCode": "01"
+          },
+          {
+            "studyName": "経営・商学",
+            "studyDescription": "経済学の理論を、現実の社会に応用する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/015/index.html",
+            "studyLargeCode": "04",
+            "studySmallCode": "015",
+            "studyCmsCode": "04"
+          },
+          {
+            "studyName": "社会学",
+            "studyDescription": "人間社会における秩序、しくみに注目する",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/017/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "017",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "マスコミ学",
+            "studyDescription": "多様化するマスコミとマスメディアを研究しそのあるべき姿を探る",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/020/index.html",
+            "studyLargeCode": "05",
+            "studySmallCode": "020",
+            "studyCmsCode": "05"
+          },
+          {
+            "studyName": "その他芸術",
+            "studyDescription": "美術、音楽以外の芸術的表現を究める",
+            "studyUrl": "https://manabi.benesse.ne.jp/shokugaku/learning/system/033/index.html",
+            "studyLargeCode": "09",
+            "studySmallCode": "033",
+            "studyCmsCode": "09"
+          }
+        ]
+      }
+    ]
+  }
+}
